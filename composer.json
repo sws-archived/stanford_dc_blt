@@ -1,6 +1,6 @@
 {
   "name": "sws-su/drupalcamp",
-  "description": "Stamford Drupalcamp Project",
+  "description": "Stanford Drupalcamp Project",
   "type": "project",
   "minimum-stability": "dev",
   "prefer-stable": true,
